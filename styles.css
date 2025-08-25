@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+img{
+	display:flex;
+}
+h1{
+	display:flex;
+	color:red;
+}
